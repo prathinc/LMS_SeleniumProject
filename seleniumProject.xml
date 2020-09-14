@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LMSAutomationProject">
+    <test name="seleniumProjectTest">
+        <classes>
+            <class name="lms_selenium_project.LMSAutomator" />
+        </classes>
+    </test>
+</suite>
